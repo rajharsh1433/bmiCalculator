@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+This is a simple responsive BMI calculator using react js I am damn sure you will be learning a lot from this small project. We used use state hook to manage the state of the application. let’s start to Build A BMI Calculator in React JS .
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Building a body mass index calculator with react js using basic class-based components and understand state and props too in a very easy way.
 
-## Available Scripts
+What Is BMI ?
+Lets understand what the BmI is then we can move to the development part of this BMI calculator. it is a measurement of a person’s leanness or obesity based on their height and weight. There are many tools which helps to identify the your body bmibut in todays session we can build our own bmi calculator. Hope you are excited to do this build.
 
-In the project directory, you can run:
+Let’s Begin making the project
+Open the command prompt, go to a comfortable spot, and enter the command as follows to build the example project for this example:
 
-### `npm start`
+1
+npx create-react-app bmicalculator
+Now, as indicated below, head to the project folder and open the folder in your fav editor. and jump to the main folder by typing
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1
+cd bmicalculator
+Now just replace the placeholder content of App.js with the given below content :
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+let’s create this amazing BMI calculator which I have given below .
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+How to Build A BMI Calculator in React JS – useState Hook & Conditionals
+How to Build A BMI Calculator in React JS – useState Hook & Conditionals
